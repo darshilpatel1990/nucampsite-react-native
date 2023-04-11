@@ -1,5 +1,5 @@
 import { ScrollView, Text } from "react-native";
-import { Button, Card } from "react-native-elements";
+import { Button, Card, Icon } from "react-native-elements";
 import * as Animatable from 'react-native-animatable';
 import * as MailComposer from 'expo-mail-composer';
 
